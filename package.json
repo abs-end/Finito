@@ -1,0 +1,24 @@
+{
+  "name": "finito",
+  "version": "1.0.0",
+  "description": "nqma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abs-end/Finito.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abs-end/Finito/issues"
+  },
+  "homepage": "https://github.com/abs-end/Finito#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
